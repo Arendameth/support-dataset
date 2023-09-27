@@ -1,0 +1,62 @@
+{
+    "01. Accounts": [
+        {"question": "Can I share my account?", "answer": "It is disallowed to share your account with anybody."},
+        {"question": "Can I give my friend my account?", "answer": "It is disallowed to share your account with anybody."},
+        {"question": "Can someone play from my account?", "answer": "It is disallowed to share your account with anybody."},
+        {"question": "Can I create another account?", "answer": "It is disallowed to create multiple different accounts and play from them. You may only play from one account."},
+        {"question": "Can I create a second account?", "answer": "It is disallowed to create multiple different accounts and play from them. You may only play from one account."},
+        {"question": "Can I make a second account?", "answer": "It is disallowed to create multiple different accounts and play from them. You may only play from one account."},
+        {"question": "Can I play from more than one account?", "answer": "It is disallowed to create multiple different accounts and play from them. You may only play from one account."},
+        {"question": "Can I hide or spoof my identiy?", "answer": "It is disallowed to make use of tools that mask or spoof your identity (such as IP or serials)."},
+        {"question": "Can I use a VPN?", "answer": "It is disallowed to make use of tools that mask or spoof your identity (such as IP or serials)."},
+        {"question": "Can I play with a VPN?", "answer": "It is disallowed to make use of tools that mask or spoof your identity (such as IP or serials)."},
+        {"question": "Can I use a proxy?", "answer": "It is disallowed to make use of tools that mask or spoof your identity (such as IP or serials)."},
+        {"question": "Can I play with a proxy?", "answer": "It is disallowed to make use of tools that mask or spoof your identity (such as IP or serials)."},
+        {"question": "Can I use a serial spoofer?", "answer": "It is disallowed to make use of tools that mask or spoof your identity (such as IP or serials)."},
+        {"question": "Can I play with a serial spoofer?", "answer": "It is disallowed to make use of tools that mask or spoof your identity (such as IP or serials)."},
+        {"question": "Can I use with a serial changer?", "answer": "It is disallowed to make use of tools that mask or spoof your identity (such as IP or serials)."},
+        {"question": "Can I play with a serial changer?", "answer": "It is disallowed to make use of tools that mask or spoof your identity (such as IP or serials)."},
+        {"question": "Can I change my IP/serial?", "answer": "It is disallowed to make use of tools that mask or spoof your identity (such as IP or serials)."},
+        {"question": "Can my name contain numbers or numbers?", "answer": "It is disallowed to use names containing numerals, incorrect capitalization, symbols, names of infamous or celebrity individuals or unrealistic names."},
+        {"question": "How should my name look like?", "answer": "It is disallowed to use names containing numerals, incorrect capitalization, symbols, names of infamous or celebrity individuals or unrealistic names."},
+        {"question": "What are the rules for naming my account?", "answer": "It is disallowed to use names containing numerals, incorrect capitalization, symbols, names of infamous or celebrity individuals or unrealistic names."},
+        {"question": "Can I use numbers or numerals in my name?", "answer": "It is disallowed to use names containing numerals, incorrect capitalization, symbols, names of infamous or celebrity individuals or unrealistic names."},
+        {"question": "How should I create my account name?", "answer": "It is disallowed to use names containing numerals, incorrect capitalization, symbols, names of infamous or celebrity individuals or unrealistic names."},
+        {"question": "How can I capitalise my name?", "answer": "Names must be correctly capitalised. The first name and last name must start with a capital letter, then followed by lower case letters. Compound names like McDonald must correctly capitalised as well."},
+        {"question": "What is correct capitalisation?", "answer": "Names must be correctly capitalised. The first name and last name must start with a capital letter, then followed by lower case letters. Compound names like McDonald must correctly capitalised as well."},
+        {"question": "Can I use symbols in my name?", "answer": "It is disallowed to use names containing numerals, incorrect capitalization, symbols, names of infamous or celebrity individuals or unrealistic names."},
+        {"question": "Can my name be a famous person or a celebrity?", "answer": "It is disallowed to use names containing numerals, incorrect capitalization, symbols, names of infamous or celebrity individuals or unrealistic names."},
+        {"question": "Can my name be after a famous person or a celebrity?", "answer": "It is disallowed to use names containing numerals, incorrect capitalization, symbols, names of infamous or celebrity individuals or unrealistic names."},
+        {"question": "Can I use unrealistic names?", "answer": "It is disallowed to use names containing numerals, incorrect capitalization, symbols, names of infamous or celebrity individuals or unrealistic names."},
+        {"question": "Can I name my account X?", "answer": "It is disallowed to use names containing numerals, incorrect capitalization, symbols, names of infamous or celebrity individuals or unrealistic names."},
+        {"question": "Can I use mule accounts?", "answer": "It is disallowed to use mule accounts for hoarding precious items (such as exclusive vehicles, drugs, or other items alike)."}
+    ],
+    "02. Use of chat":[
+        {"question": "Can I spam in chat?", "answer": "It is disallowed to send spam messages (messages without any meaning or repeating same message multiple times)."}
+    ],
+    "03. Behavior":[
+        {"question": "Can I disrespect someone?", "answer": "All players must act with respect and be considerate towards others."}
+    ],
+    "04. Abuse of bugs and exploits, misuse of scripts":[
+        {"question": "Can I abuse a bug?", "answer": "It is disallowed to make use of any game bugs, or server exploits for advantage."}
+    ],
+    "05. Use of hacks or advantageous mods":[
+        {"question": "Can I use a hack?", "answer": "It is disallowed to make use of any hacks or advantageous modifications."},
+        {"question": "Can I use an aimbot?", "answer": "No, aimbot is a hack and its usage is not allowed."}
+    ],
+    "06. Common sense":[
+        {"question": "Can I act like a retard?", "answer": "Players must utilize common sense at all times."}
+    ],
+    "07. Administrator's decisions":[
+        {"question": "Can I defy an administrator decision?", "answer": "Players must abide by the decisions made by server administrators."}
+    ],
+    "08. Punishment evasion":[
+        {"question": "Can I quit to avoid a punishment?", "answer": "It is disallowed to evade a punishment in any way, such as quitting the game when you are about to be issued a punishment."}
+    ],
+    "09. Trade or sale of game items or accounts":[
+        {"question": "Can I trade or sell my account?", "answer": "It is disallowed to trade game items or accounts for real money."}
+    ],
+    "10. Reports":[
+        {"question": "Can I make an invalid report?", "answer": "It is disallowed to report players when knowing that the player did not violate the server rules."}
+    ]
+}
