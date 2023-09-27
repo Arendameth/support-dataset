@@ -358,5 +358,471 @@
       "question": "Can I make an invalid report?",
       "answer": "It is disallowed to report players when knowing that the player did not violate the server rules."
     }
+  ],
+  "11. FAQ": [
+    {
+      "question": "How to make money?",
+      "answer": "You can make money easily by doing jobs, such as trucking, fishing, mining, etc. You can also make money by selling drugs, or by robbing stores or the bank."
+    },
+    {
+      "question": "How to get a job?",
+      "answer": "You can get a job by visiting a Job Point such as the Fire Department and going to the locker room and going on duty via walking onto the Icon. (Note: Some jobs require you to be a certain level or pass an exam to get the job)"
+    },
+    {
+      "question": "How to get a driver's license?",
+      "answer": "You can get a driver's license by visiting the DMV and getting inside of one of the White Vehicles parked outside and you will be able to start the Exam. (Note: You must have a Passport to take the exam)"
+    },
+    {
+      "question": "How to get a weapon license?",
+      "answer": "You can get a weapon license by visiting a City Hall and type `/cityhall` and you will be able to view the exam. (Note: You must level 3-4+ and you must have a Passport to take the exam)"
+    },
+    {
+      "question": "How to buy guns?",
+      "answer": "You can buy guns by visiting a Gun Store and type `/buy` and you will be able to view the guns. (Note: You must have a Weapon License to buy guns)"
+    },
+    {
+      "question": "How to buy a house?",
+      "answer": "Houses are scattered around the map and you can buy them by visiting the house and type `/purchase` and you will be able to view the house.\n You can also buy houses from People and they cannot scam you since it is against the rules! (Note: Green House Icon = Not Owned, Red House Icon = Owned, Yellow House Icon = Group Owned)"
+    },
+    {
+      "question": "How to buy a business?",
+      "answer": "Businesses are scattered around the map and you can buy them by visiting the business and type `/purchase` and you will be able to view the business.\n You can also buy businesses from People and they cannot scam you since it is against the rules! (Note: Green Business Icon = Not Owned, Red Business Icon = Owned, Yellow Business Icon = Group Owned)"
+    },
+    {
+      "question": "How to buy a vehicle?",
+      "answer": "You can buy vehicles by visiting a Vehicle Dealership and type `/browse` and you will be able to view the vehicles.\n You can also buy vehicles from People and Dealership Groups! (Note: You can be scammed if you do not use /transfervehicle, so be careful!)"
+    },
+    {
+      "question": "How can I be police?",
+      "answer": "You can be police by visiting a Police Department and taking the exam by walking into the icon, after passing you can go to the locker room and go on duty by walking into the Badge Icon. (Note: You must be level 3-4+ to be police with a Valid Passport, Driver's License, and Weapon License)"
+    },
+    {
+      "question": "How can I be a firefighter?",
+      "answer": "You can be a firefighter by visiting a Fire Department and taking the exam by walking into the icon, after passing you can go to the locker room and go on duty by walking into the Fire Extinguisher Icon. (Note: You must have a Valid Passport, Driver's License, and Weapon License)"
+    },
+    {
+      "question": "How can I be a medic?",
+      "answer": "You can be a medic by visiting a Hospital and taking the exam by walking into the icon, after passing you can go to the locker room and go on duty by walking into the Heart Icon. (Note: You must have a Valid Passport, Driver's License, and Weapon License)"
+    },
+    {
+      "question": "How can I be ems?",
+      "answer": "You can be a medic by visiting a Hospital and taking the exam by walking into the icon, after passing you can go to the locker room and go on duty by walking into the Heart Icon. (Note: You must have a Valid Passport, Driver's License, and Weapon License)"
+    },
+    {
+      "question": "How can I join safd?",
+      "answer": "You can join SAFD by visiting a Fire Department and taking the exam by walking into the icon, after passing you can go to the locker room and go on duty by walking into the Fire Extinguisher Icon. (Note: You must have a Valid Passport, Driver's License, and Weapon License)"
+    },
+    {
+      "question": "How can I join sapd?",
+      "answer": "You can join SAPD by visiting a Police Department and taking the exam by walking into the icon, after passing you can go to the locker room and go on duty by walking into the Badge Icon. (Note: You must be level 3-4+ to be police with a Valid Passport, Driver's License, and Weapon License)"
+    },
+    {
+      "question": "How can I be officer?",
+      "answer": "You can be a police officer by visiting a Police Department and taking the exam by walking into the icon, after passing you can go to the locker room and go on duty by walking into the Badge Icon. (Note: You must be level 3-4+ to be police with a Valid Passport, Driver's License, and Weapon License)"
+    },
+    {
+      "question": "How can I be a cop?",
+      "answer": "You can be a police officer by visiting a Police Department and taking the exam by walking into the icon, after passing you can go to the locker room and go on duty by walking into the Badge Icon. (Note: You must be level 3-4+ to be police with a Valid Passport, Driver's License, and Weapon License)"
+    },
+    {
+      "question": "How to play?",
+      "answer": "There are alot of things to do in the server, you can do jobs, rob stores, rob banks, sell drugs, buy houses, buy businesses, buy vehicles, and much more! (Note: Use /support and ask for a Helper to guide you if you need more help!)"
+    },
+    {
+      "question": "How to get a passport?",
+      "answer": "You can get a passport by visiting a City Hall and type `/cityhall` and you will be able to view the exam. (Note: You must be level 2+ to get a passport)"
+    },
+    {
+      "question": "How to get a phone?",
+      "answer": "You can get a phone by visiting a 24/7 and type `/buy` and select `Phone` and buy it."
+    },
+    {
+      "question": "How to get a radio?",
+      "answer": "You can get a radio by visiting a 24/7 and type `/buy` and select `Radio` and buy it."
+    },
+    {
+      "question": "How to get a walkietalkie?",
+      "answer": "You can get a walkietalkie by visiting a 24/7 and type `/buy` and select `WalkieTalkie` and buy it."
+    },
+    {
+      "question": "How to refuel on mobile?",
+      "answer": "You can refuel on mobile by typing `/refuel` and you will be able to refuel."
+    },
+    {
+      "question": "How to put gas in car on mobile?",
+      "answer": "You can put gas in car on mobile by typing `/refuel` and you will be able to refuel."
+    },
+    {
+      "question": "How to fill car on mobile?",
+      "answer": "You can fill car on mobile by typing `/refuel` and you will be able to refuel."
+    },
+    {
+      "question": "How to refuel on pc?",
+      "answer": "You can refuel on pc by pressing the `Break` Button and holding it and you will be able to refuel."
+    },
+    {
+      "question": "How to put gas in car on pc?",
+      "answer": "You can put gas in car on pc by pressing the `Break` Button and holding it and you will be able to refuel."
+    },
+    {
+      "question": "How to fill car on pc?",
+      "answer": "You can fill car on pc by pressing the `Break` Button and holding it and you will be able to refuel."
+    },
+    {
+      "question": "How to take screenshots?",
+      "answer": "You can take screenshots by pressing `F8` and the screenshots will be saved in your GTA San Andreas User Files."
+    },
+    {
+      "question": "How to report a player?",
+      "answer": "You can report a player by typing `/report (ID) (Reason)` and you will be able to report a player."
+    },
+    {
+      "question": "How to report a bug?",
+      "answer": "You can report a bug by going [here](https://forum.valrisegaming.com/index.php?/forms/21-samp-rp-bug-report/)."
+    },
+    {
+      "question": "How to report a cheater?",
+      "answer": "You can report a cheater by typing `/report` but mainly you should open a Ticket on our Discord or open a Forum Report [here](https://forum.valrisegaming.com/index.php?/forms/4-samp-rp-report-players/)."
+    },
+    {
+      "question": "How to report a hacker?",
+      "answer": "You can report a hacker by typing `/report` but mainly you should open a Ticket on our Discord or open a Forum Report [here](https://forum.valrisegaming.com/index.php?/forms/4-samp-rp-report-players/)."
+    },
+    {
+      "question": "How to use case?",
+      "answer": "You can use case by typing `/use (weapon) case` and you will be able to use case."
+    },
+    {
+      "question": "How to use weapon case?",
+      "answer": "You can use weapon case by typing `/use (weapon) case` and you will be able to use weapon case."
+    },
+    {
+      "question": "How to cook Heroin?",
+      "answer": "You can start cooking Heroin by going to a Heroin Shack or a Drug Lab and typing `/heroin make` and it will start the Heroin Making Process.\nAfter abit, it will ask you to add either (Water, Calcium, Sodium or Acetone), to add them on PC press and hold the `SHIFT/Sprint` Button. (Note: if you are on Mobile then type `/heroin add` and it will add the item.)\nAfter adding the item, it will ask you to add another item, keep adding items until it says `Heroin is ready!` and then type `/heroin collect` and you will be able to collect the Heroin. (Note: Sometimes your heroin will go Bad from either you not adding enough items or you adding too much items, if it goes bad then you will have to start over.)"
+    },
+    {
+      "question": "How to cook Meth?",
+      "answer": "You can start cooking Meth by using /getin inside of a journey and typing `/meth make` and it will start the Meth Making Process.\nAfter abit, it will ask you to add either (Water, Calcium, Sodium or Acetone), to add them on PC press and hold the `SHIFT/Sprint` Button. (Note: if you are on Mobile then type `/meth add` and it will add the item.)\nAfter adding the item, it will ask you to add another item, keep adding items until it says `Meth is ready!` and then type `/meth collect` and you will be able to collect the Meth. (Note: Sometimes you might explode from either you not adding enough items or you adding too much items, if you explode then you will have to start over.)"
+    },
+    {
+      "question": "How to cook Cocaine?",
+      "answer": "You can start cooking Cocaine by going to a Drug Lab and typing `/cocaine make` and it will start the Cocaine Making Process.\nAfter abit, it will ask you to add either (Water, Calcium, Sodium or Acetone), to add them on PC press and hold the `SHIFT/Sprint` Button. (Note: if you are on Mobile then type `/cocaine add` and it will add the item.)\nAfter adding the item, it will ask you to add another item, keep adding items until it says `Cocaine is ready!` and then type `/cocaine collect` and you will be able to collect the Cocaine. (Note: Sometimes your Cocaine will go Bad from either you not adding enough items or you adding too much items, if it goes bad then you will have to start over.)"
+    },
+    {
+      "question": "How to plant weed?",
+      "answer": "You can plant Weed in different ways, Pot Houses give you Sativa whilst outside gives you Indica.\n**Pot House:** You can plant weed in Pot Houses by going inside then walking up to a pot and using `/weed plant`. Make sure you have Weed Seeds in your inventory. (You can buy Weed Seeds at the Seeds Stores, Some stores might not have weed seeds so keep searching!)\n**Outside:** You can plant weed outside by going to a Weed Field and typing `/weed plant`. Make sure you have Weed Seeds in your inventory. (You can buy Weed Seeds at the Seeds Stores, Some stores might not have weed seeds so keep searching!)"
+    },
+    {
+      "question": "How to harvest weed?",
+      "answer": "You have to walk up to a plant and use `/weed harvest` and you will be able to harvest the weed."
+    },
+    {
+      "question": "How to sell drugs?",
+      "answer": "You can sell drugs by going to a Drug Dealer and typing `/dealer` and selecting the things you want to sell. (Note: You can also sell drugs to players but you have a chance to be scammed, so be careful!)"
+    },
+    {
+      "question": "How to sell weed?",
+      "answer": "You can sell weed by going to a Drug Dealer and typing `/dealer` and selecting either `Sativa` or `Indica`. (Note: You can also sell weed to players but you have a chance to be scammed, so be careful!)"
+    },
+    {
+      "question": "How to sell heroin?",
+      "answer": "You can sell heroin by going to a Drug Dealer and typing `/dealer` and selecting `Heroin`. (Note: You can also sell heroin to players but you have a chance to be scammed, so be careful!)"
+    },
+    {
+      "question": "How to sell meth?",
+      "answer": "You can sell meth by going to a Drug Dealer and typing `/dealer` and selecting `Meth`. (Note: You can also sell meth to players but you have a chance to be scammed, so be careful!)"
+    },
+    {
+      "question": "How to sell cocaine?",
+      "answer": "You can sell cocaine by going to a Drug Dealer and typing `/dealer` and selecting `Cocaine`. (Note: You can also sell cocaine to players but you have a chance to be scammed, so be careful!)"
+    },
+    {
+      "question": "How to be staff?",
+      "answer": "You have a chance to be a Staff Member by applying [here](https://forum.valrisegaming.com/index.php?/forms/7-samp-rp-create-a-staff-application/)."
+    },
+    {
+      "question": "How to be helper?",
+      "answer": "You have a chance to be a Staff Member by applying [here](https://forum.valrisegaming.com/index.php?/forms/7-samp-rp-create-a-staff-application/)."
+    },
+    {
+      "question": "How to be admin?",
+      "answer": "You have a chance to be a Staff Member by applying [here](https://forum.valrisegaming.com/index.php?/forms/7-samp-rp-create-a-staff-application/)."
+    },
+    {
+      "question": "How to be mod?",
+      "answer": "You have a chance to be a Staff Member by applying [here](https://forum.valrisegaming.com/index.php?/forms/7-samp-rp-create-a-staff-application/)."
+    },
+    {
+      "question": "How to be administrator?",
+      "answer": "You have a chance to be a Staff Member by applying [here](https://forum.valrisegaming.com/index.php?/forms/7-samp-rp-create-a-staff-application/)."
+    },
+    {
+      "question": "How to be moderator?",
+      "answer": "You have a chance to be a Staff Member by applying [here](https://forum.valrisegaming.com/index.php?/forms/7-samp-rp-create-a-staff-application/)."
+    },
+    {
+      "question": "How to get rich?",
+      "answer": "You can get rich by doing jobs, such as trucking, fishing, mining, etc. You can also get rich by selling drugs, or by robbing stores or the bank."
+    },
+    {
+      "question": "How to get money?",
+      "answer": "You can get money by doing jobs, such as trucking, fishing, mining, etc. You can also get money by selling drugs, or by robbing stores or the bank."
+    },
+    {
+      "question": "How to get rich quick?",
+      "answer": "You can get rich quick by doing jobs, such as trucking, fishing, mining, etc. You can also get rich quick by selling drugs, or by robbing stores or the bank."
+    },
+    {
+      "question": "How to get money quick?",
+      "answer": "You can get money quick by doing jobs, such as trucking, fishing, mining, etc. You can also get money quick by selling drugs, or by robbing stores or the bank."
+    },
+    {
+      "question": "How to get rich fast?",
+      "answer": "You can get rich fast by doing jobs, such as trucking, fishing, mining, etc. You can also get rich fast by selling drugs, or by robbing stores or the bank."
+    },
+    {
+      "question": "How to get money fast?",
+      "answer": "You can get money fast by doing jobs, such as trucking, fishing, mining, etc. You can also get money fast by selling drugs, or by robbing stores or the bank."
+    },
+    {
+      "question": "Who is Gunther?",
+      "answer": "Gunther is the Community Owner of Valrise Gaming."
+    },
+    {
+      "question": "Who is Mikro?",
+      "answer": "Mikro is the Community Owner of Valrise Gaming."
+    },
+    {
+      "question": "Who is the owner?",
+      "answer": "Gunther is the Community Owner of Valrise Gaming."
+    },
+    {
+      "question": "Who is the community owner?",
+      "answer": "Gunther is the Community Owner of Valrise Gaming."
+    },
+    {
+      "question": "Who is LocMax?",
+      "answer": "LocMax is the Community Manager of Valrise Gaming."
+    },
+    {
+      "question": "Who is Matthew_Reiner?",
+      "answer": "Matthew_Reiner is the Community Manager of Valrise Gaming."
+    },
+    {
+      "question": "Who is Matthew_Carter?",
+      "answer": "Matthew_Carter is the Community Manager of Valrise Gaming."
+    },
+    {
+      "question": "Who is Leonardo?",
+      "answer": "Leonardo is the Community Manager of Valrise Gaming."
+    },
+    {
+      "question": "Who is the community manager?",
+      "answer": "LocMax and Leonardo are the Community Managers of Valrise Gaming."
+    },
+    {
+      "question": "Who is Valentino?",
+      "answer": "Valentino is the SA:MP RP Counselor of Valrise Gaming."
+    },
+    {
+      "question": "Who is Vale?",
+      "answer": "Vale is the SA:MP RP Counselor of Valrise Gaming."
+    },
+    {
+      "question": "Who is Mazen?",
+      "answer": "Mazen is the SA:MP RP Counselor of Valrise Gaming."
+    },
+    {
+      "question": "Who are the counselors?",
+      "answer": "Valentino, Vale, and Mazen are the SA:MP RP Counselors of Valrise Gaming."
+    },
+    {
+      "question": "Who is Benson?",
+      "answer": "Benson is the SA:MP RP Manager of Valrise Gaming."
+    },
+    {
+      "question": "Who is Eren?",
+      "answer": "Eren is the SA:MP RP Manager of Valrise Gaming."
+    },
+    {
+      "question": "Who is Kacper?",
+      "answer": "Kacper is the SA:MP RP Manager of Valrise Gaming."
+    },
+    {
+      "question": "Who is Dizzy?",
+      "answer": "Dizzy is the SA:MP RP Manager of Valrise Gaming."
+    },
+    {
+      "question": "Who are the managers?",
+      "answer": "Benson, Eren, Kacper, and Dizzy are the SA:MP RP Managers of Valrise Gaming."
+    },
+    {
+      "question": "What is VAC?",
+      "answer": "VAC is the Valrise Anti Cheat System. (Note: You can download VAC [here](https://vac.valrisegaming.com/update).)"
+    },
+    {
+      "question": "What is Valrise AC?",
+      "answer": "Valrise AC is the Valrise Anti Cheat System. (Note: You can download Valrise AC [here](https://vac.valrisegaming.com/update).)"
+    },
+    {
+      "question": "How to download VAC?",
+      "answer": "You can download VAC [here](https://vac.valrisegaming.com/update)."
+    },
+    {
+      "question": "How to download Valrise AC?",
+      "answer": "You can download Valrise AC [here](https://vac.valrisegaming.com/update)."
+    },
+    {
+      "question": "What is group plus?",
+      "answer": "Group Plus is a system that allows you have access to more features in your group! (Note: You can buy Group Plus [here](https://panel.valrisegaming.com/donate/package/23).)"
+    },
+    {
+      "question": "What is group+?",
+      "answer": "Group Plus is a system that allows you have access to more features in your group! (Note: You can buy Group Plus [here](https://panel.valrisegaming.com/donate/package/23).)"
+    },
+    {
+      "question": "What is groupplus?",
+      "answer": "Group Plus is a system that allows you have access to more features in your group! (Note: You can buy Group Plus [here](https://panel.valrisegaming.com/donate/package/23).)"
+    },
+    {
+      "question": "How to activate group plus?",
+      "answer": "You can activate Group Plus by going to your Panel Profile and click on the Group you want to Activate Group Plus on and click on Group Plus then press on the Green Activate Button. (Note: You can buy Group Plus [here](https://panel.valrisegaming.com/donate/package/23).)"
+    },
+    {
+      "question": "How to activate group+?",
+      "answer": "You can activate Group Plus by going to your Panel Profile and click on the Group you want to Activate Group Plus on and click on Group Plus then press on the Green Activate Button. (Note: You can buy Group Plus [here](https://panel.valrisegaming.com/donate/package/23).)"
+    },
+    {
+      "question": "How to activate groupplus?",
+      "answer": "You can activate Group Plus by going to your Panel Profile and click on the Group you want to Activate Group Plus on and click on Group Plus then press on the Green Activate Button. (Note: You can buy Group Plus [here](https://panel.valrisegaming.com/donate/package/23).)"
+    },
+    {
+      "question": "How to get group plus?",
+      "answer": "You can get Group Plus by buying it [here](https://panel.valrisegaming.com/donate/package/23)."
+    },
+    {
+      "question": "How to get group+?",
+      "answer": "You can get Group Plus by buying it [here](https://panel.valrisegaming.com/donate/package/23)."
+    },
+    {
+      "question": "How to get groupplus?",
+      "answer": "You can get Group Plus by buying it [here](https://panel.valrisegaming.com/donate/package/23)."
+    },
+    {
+      "question": "What is group?",
+      "answer": "Groups are a way for you to be able to have friends to do activities with, such as robbing the bank or the stores."
+    },
+    {
+      "question": "What is a group?",
+      "answer": "Groups are a way for you to be able to have friends to do activities with, such as robbing the bank or the stores."
+    },
+    {
+      "question": "How to create a group?",
+      "answer": "You can create a group by heading (here)[https://forum.valrisegaming.com/index.php?/forum/13-groups/] and selecting which Specialization you want your group to be and then click on `New Topic` and design your topic well. (Note: Go (here)[https://forum.valrisegaming.com/index.php?/topic/1124-group-information/] to view more Informations and Requirements about Groups.)"
+    },
+    {
+      "question": "How to make a group?",
+      "answer": "You can make a group by heading (here)[https://forum.valrisegaming.com/index.php?/forum/13-groups/] and selecting which Specialization you want your group to be and then click on `New Topic` and design your topic well. (Note: Go (here)[https://forum.valrisegaming.com/index.php?/topic/1124-group-information/] to view more Informations and Requirements about Groups.)"
+    },
+    {
+      "question": "How to create group?",
+      "answer": "You can create a group by heading (here)[https://forum.valrisegaming.com/index.php?/forum/13-groups/] and selecting which Specialization you want your group to be and then click on `New Topic` and design your topic well. (Note: Go (here)[https://forum.valrisegaming.com/index.php?/topic/1124-group-information/] to view more Informations and Requirements about Groups.)"
+    },
+    {
+      "question": "How to make group?",
+      "answer": "You can make a group by heading (here)[https://forum.valrisegaming.com/index.php?/forum/13-groups/] and selecting which Specialization you want your group to be and then click on `New Topic` and design your topic well. (Note: Go (here)[https://forum.valrisegaming.com/index.php?/topic/1124-group-information/] to view more Informations and Requirements about Groups.)"
+    },
+    {
+      "question": "How to create a faction?",
+      "answer": "You can create a faction by heading (here)[https://forum.valrisegaming.com/index.php?/forum/13-groups/] and selecting which Specialization you want your group to be and then click on `New Topic` and design your topic well. (Note: Go (here)[https://forum.valrisegaming.com/index.php?/topic/1124-group-information/] to view more Informations and Requirements about Groups.)"
+    },
+    {
+      "question": "How to make a faction?",
+      "answer": "You can make a faction by heading (here)[https://forum.valrisegaming.com/index.php?/forum/13-groups/] and selecting which Specialization you want your group to be and then click on `New Topic` and design your topic well. (Note: Go (here)[https://forum.valrisegaming.com/index.php?/topic/1124-group-information/] to view more Informations and Requirements about Groups.)"
+    },
+    {
+      "question": "How to create faction?",
+      "answer": "You can create a faction by heading (here)[https://forum.valrisegaming.com/index.php?/forum/13-groups/] and selecting which Specialization you want your group to be and then click on `New Topic` and design your topic well. (Note: Go (here)[https://forum.valrisegaming.com/index.php?/topic/1124-group-information/] to view more Informations and Requirements about Groups.)"
+    },
+    {
+      "question": "How to make faction?",
+      "answer": "You can make a faction by heading (here)[https://forum.valrisegaming.com/index.php?/forum/13-groups/] and selecting which Specialization you want your group to be and then click on `New Topic` and design your topic well. (Note: Go (here)[https://forum.valrisegaming.com/index.php?/topic/1124-group-information/] to view more Informations and Requirements about Groups.)"
+    },
+    {
+      "question": "How to create a gang?",
+      "answer": "You can create a gang by heading (here)[https://forum.valrisegaming.com/index.php?/forum/13-groups/] and select `Criminal Group` and then click on `New Topic` and design your topic well."
+    },
+    {
+      "question": "How to make a gang?",
+      "answer": "You can make a gang by heading (here)[https://forum.valrisegaming.com/index.php?/forum/13-groups/]  and select `Criminal Group` and then click on `New Topic` and design your topic well."
+    },
+    {
+      "question": "How to create gang?",
+      "answer": "You can create a gang by heading (here)[https://forum.valrisegaming.com/index.php?/forum/13-groups/]  and select `Criminal Group` and then click on `New Topic` and design your topic well."
+    },
+    {
+      "question": "How to create a mafia?",
+      "answer": "You can create a mafia by heading (here)[https://forum.valrisegaming.com/index.php?/forum/13-groups/]  and select `Criminal Group` and then click on `New Topic` and design your topic well."
+    },
+    {
+      "question": "How to make a mafia?",
+      "answer": "You can make a mafia by heading (here)[https://forum.valrisegaming.com/index.php?/forum/13-groups/]  and select `Criminal Group` and then click on `New Topic` and design your topic well."
+    },
+    {
+      "question": "How to create mafia?",
+      "answer": "You can create a mafia by heading (here)[https://forum.valrisegaming.com/index.php?/forum/13-groups/]  and select `Criminal Group` and then click on `New Topic` and design your topic well."
+    },
+    {
+      "question": "How to make mafia?",
+      "answer": "You can make a mafia by heading (here)[https://forum.valrisegaming.com/index.php?/forum/13-groups/] and select `Criminal Group` and then click on `New Topic` and design your topic well."
+    },
+    {
+      "question": "How to create a company?",
+      "answer": "You can create a company by heading (here)[https://forum.valrisegaming.com/index.php?/forum/13-groups/] and select `Legal Group` and then click on `New Topic` and design your topic well."
+    },
+    {
+      "question": "How to make a company?",
+      "answer": "You can make a company by heading (here)[https://forum.valrisegaming.com/index.php?/forum/13-groups/] and select `Legal Group` and then click on `New Topic` and design your topic well."
+    },
+    {
+      "question": "How to create company?",
+      "answer": "You can create a company by heading (here)[https://forum.valrisegaming.com/index.php?/forum/13-groups/] and select `Legal Group` and then click on `New Topic` and design your topic well."
+    },
+    {
+      "question": "How to make company?",
+      "answer": "You can make a company by heading (here)[https://forum.valrisegaming.com/index.php?/forum/13-groups/] and select `Legal Group` and then click on `New Topic` and design your topic well."
+    },
+    {
+      "question": "How to create a business?",
+      "answer": "You can create a business by heading (here)[https://forum.valrisegaming.com/index.php?/forum/13-groups/] and select `Legal Group` and then click on `New Topic` and design your topic well."
+    },
+    {
+      "question": "How to make a business?",
+      "answer": "You can make a business by heading (here)[https://forum.valrisegaming.com/index.php?/forum/13-groups/] and select `Legal Group` and then click on `New Topic` and design your topic well."
+    },
+    {
+      "question": "How to create business?",
+      "answer": "You can create a business by heading (here)[https://forum.valrisegaming.com/index.php?/forum/13-groups/] and select `Legal Group` and then click on `New Topic` and design your topic well."
+    },
+    {
+      "question": "How to make business?",
+      "answer": "You can make a business by heading (here)[https://forum.valrisegaming.com/index.php?/forum/13-groups/] and select `Legal Group` and then click on `New Topic` and design your topic well."
+    },
+    {
+      "question": "How to create a family?",
+      "answer": "You can create a family by heading (here)[https://forum.valrisegaming.com/index.php?/forum/13-groups/] and select `Legal Group` and then click on `New Topic` and design your topic well."
+    },
+    {
+      "question": "How to make a family?",
+      "answer": "You can make a family by heading (here)[https://forum.valrisegaming.com/index.php?/forum/13-groups/] and select `Legal Group` and then click on `New Topic` and design your topic well."
+    },
+    {
+      "question": "How to create family?",
+      "answer": "You can create a family by heading (here)[https://forum.valrisegaming.com/index.php?/forum/13-groups/] and select `Legal Group` and then click on `New Topic` and design your topic well."
+    },
+    {
+      "question": "How to make family?",
+      "answer": "You can make a family by heading (here)[https://forum.valrisegaming.com/index.php?/forum/13-groups/] and select `Legal Group` and then click on `New Topic` and design your topic well."
+    }
   ]
 }
